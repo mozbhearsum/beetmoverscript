@@ -6,7 +6,7 @@ This project adheres to `Semantic Versioning <http://semver.org/>`__.
 
 .. towncrier release notes start
 
-[7.9.2] = (2018-09-27)
+[7.10.1] = (2018-09-28)
 ----------------------
 
 Added
@@ -14,6 +14,15 @@ Added
 
 - Beetmove updater-dep test package into candidates dir (`#1490119
   <https://bugzilla.mozilla.org/show_bug.cgi?id=1490119>`_)
+
+
+[7.10.0] = (2018-09-28)
+-----------------------
+
+Added
+~~~~~
+
+- Handle android-components to be deployed on maven.mozilla.org (`#1491335 <https://bugzilla.mozilla.org/show_bug.cgi?id=1491335>`_)
 
 
 [7.9.1] = (2018-09-07)
